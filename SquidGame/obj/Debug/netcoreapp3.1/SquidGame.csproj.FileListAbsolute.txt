@@ -1,0 +1,12 @@
+C:\Users\akarnwal\Downloads\SquidGame\SquidGame\SquidGame\bin\Debug\netcoreapp3.1\SquidGame.exe
+C:\Users\akarnwal\Downloads\SquidGame\SquidGame\SquidGame\bin\Debug\netcoreapp3.1\SquidGame.deps.json
+C:\Users\akarnwal\Downloads\SquidGame\SquidGame\SquidGame\bin\Debug\netcoreapp3.1\SquidGame.runtimeconfig.json
+C:\Users\akarnwal\Downloads\SquidGame\SquidGame\SquidGame\bin\Debug\netcoreapp3.1\SquidGame.runtimeconfig.dev.json
+C:\Users\akarnwal\Downloads\SquidGame\SquidGame\SquidGame\bin\Debug\netcoreapp3.1\SquidGame.dll
+C:\Users\akarnwal\Downloads\SquidGame\SquidGame\SquidGame\bin\Debug\netcoreapp3.1\SquidGame.pdb
+C:\Users\akarnwal\Downloads\SquidGame\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.AssemblyInfoInputs.cache
+C:\Users\akarnwal\Downloads\SquidGame\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.AssemblyInfo.cs
+C:\Users\akarnwal\Downloads\SquidGame\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.csproj.CoreCompileInputs.cache
+C:\Users\akarnwal\Downloads\SquidGame\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.dll
+C:\Users\akarnwal\Downloads\SquidGame\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.pdb
+C:\Users\akarnwal\Downloads\SquidGame\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.genruntimeconfig.cache
